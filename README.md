@@ -12,5 +12,8 @@ And all our identified issues are being tracked here:
 
 https://github.com/StarbeamOne/home/issues
 
+If you have any questions our Discord has over fourty members at the moment who can help assist you:
+https://discord.gg/MFubTNt4Ph
+
 Thank you very much to everyone out there who has expressed interest in starbeam.one 🙏🌟
 - Michael "[Mike-E-angelo](https://github.com/mike-e-angelo)" DeMond
