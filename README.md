@@ -12,7 +12,7 @@ And all our identified issues are being tracked here:
 
 https://github.com/StarbeamOne/home/issues
 
-If you have any questions our Discord has over fourty members at the moment who can help assist you:
+If you have any questions our Discord has over sixty members at the moment who can help assist you:
 
 https://discord.gg/MFubTNt4Ph
 
