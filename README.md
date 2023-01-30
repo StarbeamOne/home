@@ -13,6 +13,7 @@ And all our identified issues are being tracked here:
 https://github.com/StarbeamOne/home/issues
 
 If you are tech/agile-centric, may we interest you in our StarbeamOne YouTube channel featuring semi-weekly standups based on Agile methodologies?
+
 https://www.youtube.com/@StarbeamOne
 
 If you have any questions our Discord has over sixty members at the moment who can help assist you:
