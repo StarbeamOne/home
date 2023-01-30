@@ -6,7 +6,7 @@ No code is yet found here but maybe we will add it in the future? 🤔
 
 We have a simple wiki location for articles of documentation that pop up in onboarding here:
 
-https://github.com/StarbeamOne/home/wiki
+https://starbeam-one.gitbook.io/home
 
 And all our identified issues are being tracked here:
 
